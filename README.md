@@ -9,5 +9,5 @@
 
 
 ### Tools
-![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
