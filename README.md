@@ -9,7 +9,7 @@
 
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-
+<img src="https://img.shields.io/badge/React-1DAFB?style=flat&logo=React&logoColor=white"/></a>
 ### Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 <img align="left" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
