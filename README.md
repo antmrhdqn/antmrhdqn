@@ -24,8 +24,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge)
-![Caffeine](https://img.shields.io/badge/Caffeine-2E8B57?style=for-the-badge&logo=caffeine&logoColor=white)
-
+![Caffeine Cache](https://img.shields.io/badge/Caffeine%20Cache-2E8B57?style=for-the-badge&logo=cache&logoColor=white)
 
 ### DB
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
