@@ -20,7 +20,7 @@
 
 ### Cache
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Caffeine Cache](https://img.shields.io/badge/Caffeine-006272?style=for-the-badge&logo=caffeine&logoColor=white)
+![Caffeine Cache](https://img.shields.io/badge/Caffeine%20Cache-006272?style=for-the-badge&logo=java&logoColor=white)
 
 ### Compute Engine
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
