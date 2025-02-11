@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Kim%20Donghwan&animation=blink&fontSize=90"/>   
                                                     
 # Contact Me                                 
-<div style="display:flex;          flex-direction:row;">       
+<div style="display:flex;           flex-direction:row;">       
     <a href="mailto:antmrhdqn@gmail.com"> 
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">  
     </a>  
